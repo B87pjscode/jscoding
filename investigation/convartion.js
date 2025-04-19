@@ -8,3 +8,7 @@ let a = "Dipika"
 let b = " Pandit"
 let c = a + b
 console.log(c)
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
